@@ -8,3 +8,6 @@ Bu proje, Bilgisayar Ağ Sistemleri dersi kapsamında geliştirilmiştir. İstan
 - Loglama Sistemi : Tüm işlemler INFO, WARNING, ERROR, SUCCESS gibi seviyelerde loglanır.
 - Random Veri Üretimi : Gerçek bir CSV dosyasına gerek yoktur. Rastgele oluşturulan durak verisi ile çalışır.
 - Modüler Yapı : Her sınıf ayrı bir dosyada olup, sistemin farklı bileşenleri arasında haberleşme sağlanır.
+
+ 
+![Ekran görüntüsü 2025-05-19 003456](https://github.com/user-attachments/assets/0a4d43e9-aaac-4377-af22-d3a7bd4b3cd5)
